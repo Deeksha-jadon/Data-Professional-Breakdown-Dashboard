@@ -1,7 +1,7 @@
 # Data-Professional-Breakdown-Dashboard
 This dashboard provides insights from a survey of 630 data professionals, offering a detailed look into their demographics, challenges, satisfaction levels, and preferred tools in the field of data science.
 
-** Key Insights:**
+**Key Insights:**
 
 Survey Demographics
 Total Respondents: 630
@@ -21,12 +21,12 @@ Work-Life Balance: Average rating of 5.74/10
 Salary Satisfaction: Average rating of 4.27/10
 This suggests that while work-life balance is moderately satisfactory, salary satisfaction is relatively low among respondents.
 
-** Favorite Programming Language**
+**Favorite Programming Language**
 
 Python is the most popular language among data professionals.
 Followed by R and other programming languages.
 
-** Overall Insights**
+**Overall Insights**
 
 Entering the data profession is moderately challenging for most individuals.
 While respondents are somewhat satisfied with work-life balance, salary remains a key concern.
