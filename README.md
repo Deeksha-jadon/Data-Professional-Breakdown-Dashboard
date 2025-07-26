@@ -1,3 +1,5 @@
+<img width="2001" height="1125" alt="image" src="https://github.com/user-attachments/assets/52057f1b-3188-4791-b1dc-cf382e88e607" />
+
 # Data-Professional-Breakdown-Dashboard
 This dashboard provides insights from a survey of 630 data professionals, offering a detailed look into their demographics, challenges, satisfaction levels, and preferred tools in the field of data science.
 
